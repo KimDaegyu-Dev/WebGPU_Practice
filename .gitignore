@@ -3,7 +3,7 @@ node_modules
 modules/
 ts-node--*/
 rss.xml
-
+.yarn
 # Logs
 logs
 *.log
